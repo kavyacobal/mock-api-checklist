@@ -15,6 +15,6 @@
 },
   "tableData":{
     "Result": [{"Activityid":"123","Subject":"This is the first task","Modifiedon":"20200301","SubTasks":["Activityid":"234","Subject":"This is the first subtask","ParenttaskId":"123","Modifiedon":"20200302"]}, 
-    {{"Activityid":"124","Subject":"This is the second task","Modifiedon":"20200221",}]
+    {"Activityid":"124","Subject":"This is the second task","Modifiedon":"20200221"}]
 }
 }

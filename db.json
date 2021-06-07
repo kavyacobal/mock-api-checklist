@@ -1,13 +1,188 @@
 {
-"assignment":{
-"Result": "[{\"Fullname\":\"Ifan Ben Mezd\",\"SystemuserId\":\"1197b27f-3768-eb11-bb23-000d3a33f6ca\"},{\"Fullname\":\"Sebille\",\"SystemuserId\":\"51d783a1-dbff-ea11-a812-000d3a33f6ca\"},{\"Fullname\":\"Lohse\",\"SysSetemuserId\":\"fca45d77-f268-eb11-b0b0-000d3a33f6ca\"},{\"Fullname\":\"Alistair\",\"SystemuserId\":\"bca5e4b9-962c-eb11-a813-000d3a33f70f\"},{\"Fullname\":\"Garrus\",\"SystemuserId\":\"49ba6ede-b11c-eb11-a813-000d3a33f70f\"},{\"Fullname\":\"Leliana\",\"SystemuserId\":\"630cbebb-1f06-eb11-a814-000d3a33f6ca\"},{\"Fullname\":\"Valerie\",\"SystemuserId\":\"81effddd-b424-e911-a998-000d3a37083f\"}]"},
-"highlight":{
-	"Result": "{\"NoOfDays\":\"30\",\"OpportunityId\":null,\"Createalertnotification\":\"True\",\"Updatealertnotification\":\"True\",\"Deletealertnotification\":\"True\",\"Colorrgb\":\"rgba(23, 223, 35, 1)\",\"Colorhex\":\"#17df23\",\"highlight\":true}"
-},
-"tableData":{
-    "Result": "{\"Activityid\":\"123\",\"Subject\":\"This is the first task\",\"Modifiedon\":\"20200301\",\"SubTasks\":[\"Activityid\":\"234\",\"Subject\":\"This is the first subtask\",\"ParenttaskId\":\"123\",\"Modifiedon\":\"20200302\"]}, {{\"Activityid\":\"124\",\"Subject\":\"This is the second task\",\"Modifiedon\":\"20200221\"}"
-},
-"kTableData":{
-    "Result": "{\"Activityid\":\"123\",\"Subject\":\"This is the first task\",\"Modifiedon\":\"20200301\",\"SubTasks\":[\"Activityid\":\"234\",\"Subject\":\"This is the first subtask\",\"ParenttaskId\":\"123\",\"Modifiedon\":\"20200302\"]}, {{\"Activityid\":\"124\",\"Subject\":\"This is the second task\",\"Modifiedon\":\"20200221\"}"
-}
+"checklist":  {
+    "oppertunityID": "32adc2cd-6e98-eb11-b1ac-000d3a5aab40",
+    "systemConfigurationCount": "0/0",
+    "qaPriortogoLiveCount": "0/0",
+    "programandSuppliersCount": "0/4",
+    "postgoLiveCount": "0/1",
+    "dataCollectionCount": "0/4",
+    "clientLocationCount": "0/0",
+    "overallPercentage": "0.0000000000",
+    "accountID": "74c88f23-2d62-eb11-bb23-000d3a33f304",
+    "sesObrCount": "10",
+    "regionalObrCount": "6",
+    "obrRegionalPercentage": "16.6700000000",
+    "obrbroadLinePercentage": "20.0000000000",
+    "broadlineObrCount": "5",
+    "programsInfo": [
+      {
+        "onboardingRequestingId": "7a95ba17-c08b-eb11-a812-00224809a1b0",
+        "percentageofCompletedLocations": "100.0000000000",
+        "numberofLocations": "2",
+        "distributor": "FoodPro",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "d565941f-a58b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "",
+        "numberofLocations": "",
+        "distributor": "Atlantic Distributors Inc. - NT",
+        "programType": "regional"
+      },
+      {
+        "onboardingRequestingId": "68688a34-a98b-eb11-a812-00224809a1b0",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "76",
+        "distributor": "1800 NY Bulbs LTD - NT",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "f10ace40-aa8b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "16.6700000000",
+        "numberofLocations": "6",
+        "distributor": "A Grande Affair LLC - NT",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "cc1765aa-be8b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "",
+        "numberofLocations": "",
+        "distributor": "Berry Plastics - NT",
+        "programType": "regional"
+      },
+      {
+        "onboardingRequestingId": "d425600b-bf8b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "100.0000000000",
+        "numberofLocations": "2",
+        "distributor": "HPC Foodservice",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "a8c560f2-c08b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "",
+        "numberofLocations": "",
+        "distributor": "5L Development Group LLC - NT",
+        "programType": "regional"
+      },
+      {
+        "onboardingRequestingId": "2e4c51fe-c08b-eb11-a812-00224809ac12",
+        "percentageofCompletedLocations": "",
+        "numberofLocations": "",
+        "distributor": "A-1 Fence - NT",
+        "programType": "regional"
+      },
+      {
+        "onboardingRequestingId": "0e3e44c9-5b8c-eb11-a812-00224809a1b0",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "US Foods Metro New York 2160 2I",
+        "programType": "regional"
+      },
+      {
+        "onboardingRequestingId": "2a7e0ffd-7f8d-eb11-a812-00224809a1b0",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "151 Foods, LLC (Formerly Amoroso's Baking)",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "3c907f8b-cd92-eb11-b1ac-000d3a58b0c5",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "3",
+        "distributor": "Birite Foodservice",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "178aba5a-cf92-eb11-b1ac-000d3a58b753",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "2",
+        "distributor": "Advance Food Products LLC AFP - NT",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "f16718ff-0293-eb11-b1ac-000d3a58b0c5",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "Bagel Boy - NT",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "95372f6b-c193-eb11-b1ac-000d3a58b0c5",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "3",
+        "distributor": "Cater Rent - NT",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "73adf5e4-8894-eb11-b1ac-000d3a3ac4aa",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "Chef Works Inc",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "08f57d54-0499-eb11-b1ac-000d3a3ac4aa",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "Saval",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "4c57b858-0599-eb11-b1ac-000d3a3acd83",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "2",
+        "distributor": "Ben E Keith Amarillo",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "5ec453c4-0599-eb11-b1ac-000d3a3acd83",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "2",
+        "distributor": "Balton Products",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "c9d10d61-94a6-eb11-b1ac-000d3a3162af",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "2",
+        "distributor": "A Orwasher Inc - NT",
+        "programType": "broadline"
+      },
+      {
+        "onboardingRequestingId": "5fc32651-99a6-eb11-b1ac-000d3a3162af",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "Atlas Wholesale",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "097e130a-04a8-eb11-b1ac-000d3a3166f7",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "1",
+        "distributor": "Food Distributors Inc - NT",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "d4a60a18-15a8-eb11-b1ac-000d3a3166f7",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "82",
+        "distributor": "A Top Shelf Staffing Service Inc - NT",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "d2471448-15a8-eb11-b1ac-000d3a3166f7",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "82",
+        "distributor": "A&M Global Staffing Inc - NT",
+        "programType": "ses"
+      },
+      {
+        "onboardingRequestingId": "536e5f1f-9ba9-eb11-b1ac-000d3a3162af",
+        "percentageofCompletedLocations": "0.0000000000",
+        "numberofLocations": "4",
+        "distributor": "A Weinstein & Associates Inc - NT",
+        "programType": "ses"
+      }
+    ]
+  }
 }
